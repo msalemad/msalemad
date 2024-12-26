@@ -38,10 +38,9 @@ function Clear-And-Greet {
 Clear-And-Greet
 
 # Listar procesos en un formato simplificado
-function Simple-Process-List {
+function Get-ProcessList {
     Get-Process | Select-Object -Property Name, Id, CPU
 }
-
 # Hacer una copia de seguridad de un archivo
 function Backup-File {
     param(
@@ -117,5 +116,10 @@ $env:MyCustomVar = "SomeValue"
 
 # Agregar una ruta personalizada a la variable de entorno PATH
 $env:Path += ";C:\MyCustomScripts"
+
+# =================== 6. DIRECTORIO DE SCRIPTS ==========================
+# Definir el directorio donde se almacenan los scripts para PowerShell
+$scriptDirectory = "C:\Users\usuario\Documents\PowerShell\Scripts"
+Set-Location -Path $scriptDirectory
 
 # ===================== FIN DEL ARCHIVO DE PERFIL =======================
