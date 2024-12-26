@@ -1,4 +1,3 @@
-/*************  ✨ Codeium Command 🌟  *************/
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)](https://www.oracle.com/java/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://www.javascript.com/)
@@ -35,5 +34,3 @@
 - ⚡ Fun fact: ...
 
 ---
-
-/******  98d9e091-d209-4285-aa36-a2252569b21e  *******/
