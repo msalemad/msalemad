@@ -11,12 +11,12 @@
 [![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 
 - 👋 Hi, I’m @msalemad 👋
-- 🏠 I live in Barcelona, Spain
+- 🏠 I live in Málaga, Spain
 - 💻 I work with Python, Java, JavaScript, HTML, CSS, React, Node.js
 - 📚 I'm currently learning TensorFlow, Django, Flask, Express, React Native, Flutter
 - 📷 I'm an amateur photographer, and I love to travel and capture moments
 - 😄 I'm a happy person, I love to laugh and make people smile
-- 🐶 I have a cute dog named Luna
+- 🐶 I have a cute dog named Shay
 - 🎮 I'm a gamer, and I love to play Overwatch, Apex Legends, LoL, Dota 2
 - 📚 I'm a bookworm, and I love to read novels, comics and manga
 - 🎧 I love music, and I'm a fan of electronic, hip hop, rock and pop
