@@ -5,15 +5,12 @@
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
 [![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.org/)
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)](https://flutter.dev/)
 [![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)](https://www.djangoproject.com/)
-[![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 
 - 👋 Hi, I’m @msalemad 👋
 - 🏠 I live in Málaga, Spain
 - 💻 I work with Translations
-- 📚 I'm currently learning Python, Java, JavaScript, HTML, Node.js, Django, Flask...
+- 📚 I'm currently learning Python, Java, JavaScript, HTML, CSS3, React, Node.js, Django, Flask...
 - 📷 I'm an amateur photographer, and I love to travel and capture moments
 - 😄 I'm a happy person, I love to laugh and make people smile
 - 🐱 I have a cute cat named Michi!
