@@ -12,25 +12,17 @@
 
 - 👋 Hi, I’m @msalemad 👋
 - 🏠 I live in Málaga, Spain
-- 💻 I work with Python, Java, JavaScript, HTML, CSS, React, Node.js
-- 📚 I'm currently learning TensorFlow, Django, Flask, Express, React Native, Flutter
+- 💻 I work with Translations
+- 📚 I'm currently learning Python, Java, JavaScript, HTML, Node.js, Django, Flask...
 - 📷 I'm an amateur photographer, and I love to travel and capture moments
 - 😄 I'm a happy person, I love to laugh and make people smile
-- 🐶 I have a cute dog named Shay
-- 🎮 I'm a gamer, and I love to play Overwatch, Apex Legends, LoL, Dota 2
-- 📚 I'm a bookworm, and I love to read novels, comics and manga
-- 🎧 I love music, and I'm a fan of electronic, hip hop, rock and pop
-- 🌐 I'm a fan of astronomy, and I love to watch the stars
+- 🐱 I have a cute cat named Michi!
+- 🎮 I'm a gamer, and I love to play Destiny 2, Diablo 4, CS, Fallout76...
+- 🎧 I love music, and I'm a fan of rock, heavy-metal, hip hop, EDM...
 - 🎁 I love to give gifts, and I'm always looking for new ideas
 - 🎆 I love to celebrate special occasions, and I'm always up for a party
 - 💝 I'm a romantic, and I love to give flowers and chocolates
-- :sun: I love to travel, and I'm always looking for new adventures
-- 😎 I love to relax, and I'm always looking for new ways to do it
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😎 I love to relax, and I'm always looking for new ways to do it more chill
+- 👀 I’m interested in learning more development and know new friends
 
 ---
